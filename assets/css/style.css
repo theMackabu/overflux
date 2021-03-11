@@ -136,7 +136,14 @@ header .logo
 }
 .a1:hover
 {
-  letter-spacing: 6px;
+  box-shadow: inset 0px 0px 0px 2px white;
+  box-sizing: border-box; 
+  padding: 10px 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 500;
+  margin-top: 10px;
+  color: #fff;
 }
 .social
 {
